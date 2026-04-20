@@ -8,6 +8,9 @@ Smart Multi‑Monitor Dimming Utility for Windows
 
 Multi-Screen Focus is a lightweight Windows utility that automatically dims your secondary displays when your mouse is not on them. Reduce eye strain, save energy, and stay focused with a clean UI and seamless background operation.
 
+<img width="520" height="150" alt="desktop_setup" src="https://github.com/user-attachments/assets/2d779101-02de-4406-8a12-95288a973da1" />
+
+
 📥 Download & Install
 
     No installation.
