@@ -10,7 +10,6 @@ Multi-Screen Focus is a lightweight Windows utility that automatically dims your
 
 <p align="center"><img width="520" height="150" alt="desktop_setup" src="https://github.com/user-attachments/assets/2d779101-02de-4406-8a12-95288a973da1" /></p>
 
-
 📥 Download & Install
 
     No installation.
@@ -23,6 +22,12 @@ Multi-Screen Focus is a lightweight Windows utility that automatically dims your
     
     Tip: Enable “Start with Windows” for automatic background startup.
     
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c16e835d-060c-41e2-9f7a-3604c9fb2494" alt="Dark Mode" width="49%">
+  <img src="https://github.com/user-attachments/assets/18516964-bd48-4202-87ca-2304d9f6c294" alt="Light Mode" width="49%">
+</p>
 
 ✨ Features
 
