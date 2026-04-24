@@ -1,4 +1,4 @@
-🖥️ Multi-Screen Focus
+## 🖥️ Multi-Screen Focus
 Smart Multi‑Monitor Dimming Utility for Windows
 <p align="left">
 <img src="https://img.shields.io/badge/version-1.0.0-blue.svg">
@@ -10,7 +10,7 @@ Multi-Screen Focus is a lightweight Windows utility that automatically dims your
 
 <p align="center"><img width="520" height="150" alt="desktop_setup" src="https://github.com/user-attachments/assets/2d779101-02de-4406-8a12-95288a973da1" /></p>
 
-📥 Download & Install
+## 📥 Download & Install
 
     No installation.
     
@@ -29,7 +29,7 @@ Multi-Screen Focus is a lightweight Windows utility that automatically dims your
   <img src="https://github.com/user-attachments/assets/18516964-bd48-4202-87ca-2304d9f6c294" alt="Light Mode" width="49%">
 </p>
 
-✨ Features
+## ✨ Features
 
     Smart Motion Detection — Prevents dimming while videos or animations are active.
 
@@ -47,7 +47,7 @@ Multi-Screen Focus is a lightweight Windows utility that automatically dims your
 
     English & Turkish Support
 
-👍 Support the Developer
+## 👍 Support the Developer
 
 <div align="center" style="border: 2px solid #e1e4e8; padding: 20px; border-radius: 12px;">
 
